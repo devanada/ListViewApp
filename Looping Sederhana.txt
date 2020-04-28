@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+        int angka = 1;
+        char huruf = 'A';
+        while (angka <= 3 && huruf <= 'C') {
+            System.out.print(huruf);
+            huruf++;
+            System.out.print(angka);
+            angka++;
+        }
+    }
+}
