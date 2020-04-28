@@ -56,17 +56,18 @@ const styles = StyleSheet.create({
   },
   name: {
     fontWeight: 'bold',
-    marginLeft: 25,
+    marginLeft: 20,
     marginTop: 15,
     marginBottom: 10
   },
   salary: {
     color: "#B3B3B3",
-    marginLeft: 30
+    marginLeft: 25,
+    marginTop: 10
   },
   age: {
     color: "#B3B3B3",
-    marginLeft: 30,
+    marginLeft: 25,
     marginBottom: 15
   }
 });
